@@ -10,3 +10,7 @@ TAGS = ['rladies']
 
 # If the author is on one of these servers, ignore the post
 IGNORE_SERVERS = [] #['botsin.space', ]
+
+CLIENT_NAME = 'rladies_bot'
+
+USERNAME = 'contact@cosimameyer.com'
